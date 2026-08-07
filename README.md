@@ -248,15 +248,15 @@ Developed an AI-native security testing and evaluation framework for adversarial
 
 **August 2025 – December 2025**
 
-Contributed to software-development activities supporting autonomous-systems research.
+Contributed to autonomous-systems research focused on SLAM, point-cloud processing, localization performance, and sensor-data engineering.
 
-* Developed and reviewed software components used in research-oriented system workflows.
-* Applied structured debugging, validation and root-cause analysis to technical issues.
-* Supported backend logic, testing and documentation across collaborative development tasks.
-* Considered access control, data handling and software-security requirements during implementation.
-* Worked with technical teammates to convert research objectives into testable software functionality.
+* Extended the open-source MapClosures C++ library with global-map ingestion, improving runtime by approximately 5x and localization accuracy by 30%, with gains exceeding 200% on longer trajectories.
+* Redesigned point-cloud extraction logic using separate close- and long-range processing strategies, reducing blind-spot false positives by approximately 70% on large-scale datasets.
+* Built and maintained CI/CD and data-ingestion workflows for LiDAR and camera sensor outputs, reducing pipeline execution time from 20 minutes to 7 minutes while achieving a 99.4% ingestion success rate across 60 test runs.
+* Maintained zero post-merge regression defects across 19 peer-reviewed merges through structured code reviews, regression testing, and Agile/Scrum collaboration with a distributed research team.
 
-`Software Engineering` `Python` `Testing` `Debugging` `Research` `Documentation` `Security`
+`C++` `SLAM` `LiDAR` `Point Clouds` `MapClosures` `CI/CD` `Git` `Sensor Data` `Regression Testing` `Agile/Scrum`
+
 
 <br />
 

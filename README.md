@@ -226,21 +226,21 @@ My work focused on recommendation and recipe-detail functionality while supporti
 
 ## Experience
 
-### Cloud Security Intern — XSignOn
+### AI Intern — XSignOn
 
-**May 2025 – Present**
+**May 2026 – August 2026**
 
-Supporting the design and development of secure cloud and AI-evaluation systems across Azure, distributed storage and security-testing environments.
+Developed an AI-native security testing and evaluation framework for adversarial testing, guardrail validation, model evaluation, governance mapping and evidence reporting.
 
-* Integrated Azure enterprise infrastructure with Rubix-based decentralized storage architecture.
-* Supported secure provisioning and configuration of more than 100 distributed nodes.
-* Worked with more than 500 GB of distributed data across cloud test environments.
-* Applied identity and access management, role-based access control and Azure CLI automation.
-* Contributed to smart-contract and data-marketplace security workflows.
-* Helped structure an AI-native security-testing framework spanning adversarial testing, guardrails, governance mapping and evidence reporting.
-* Participated in configuration hardening, remediation tracking, technical documentation and risk-based security analysis.
+* Developed components of a six-layer AI red-team architecture spanning target abstraction, offensive testing, classification and guardrails, evaluation, governance crosswalking and evidence reporting.
+* Integrated Garak, Promptfoo and PyRIT into an offensive-testing pipeline that centralizes findings in a common database and processes results through a scoring and verdict system.
+* Built a containerized Layer 3 guardrail prototype that evaluates model inputs and outputs, detects prompt-injection and secret-leakage patterns, and enforces pre- and post-inference blocking decisions.
+* Integrated local LLM testing through Docker Model Runner, SmolLM2 and Ollama to support repeatable adversarial and guardrail evaluation workflows.
+* Developed a Layer 4 evaluation framework for correctness, groundedness, safety, robustness and regression testing, with configurable quality gates for pre-deployment and continuous model evaluation.
+* Integrated DeepEval and RAGAS for LLM and RAG evaluation, including threshold-based CI gating, groundedness and faithfulness testing, and OWASP LLM Top 10-aligned security evaluation.
+* Designed the evaluation architecture for containerized Docker and Kubernetes execution, enabling evaluation workloads to operate as reproducible Jobs and scheduled CronJobs.
 
-`Azure` `Cloud Security` `IAM` `RBAC` `Python` `Docker` `AI Security` `Threat Modeling` `Secure SDLC`
+`Python` `Docker` `Kubernetes` `Ollama` `Garak` `Promptfoo` `PyRIT` `DeepEval` `RAGAS` `AI Security` `LLM Evaluation` `AI Red Teaming` `Guardrails` `OWASP LLM Top 10`
 
 <br />
 
